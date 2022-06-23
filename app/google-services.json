@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943899004551",
+    "project_id": "travelinstam2",
+    "storage_bucket": "travelinstam2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943899004551:android:f4638008e6b2511c083222",
+        "android_client_info": {
+          "package_name": "com.example.travelinstam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943899004551-1r6bh1ppch48rse4hmqqmafqvb93b564.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-eMwbbdBrc-ikQ_5sCEKbBDlxpqog1ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943899004551-1r6bh1ppch48rse4hmqqmafqvb93b564.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
